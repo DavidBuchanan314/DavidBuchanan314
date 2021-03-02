@@ -8,6 +8,8 @@ This is what happens when you let a Reverse Engineer write code. Here's an overv
 
  - [fusee-nano](https://github.com/DavidBuchanan314/fusee-nano) - Exploit CVE-2018-6242 from embedded linux devices.
 
+ - [CVE-2017-13672](https://github.com/DavidBuchanan314/CVE-2017-13672) - A PoC for CVE-2017-13672 - QEMU DoS
+
 ## Tools
 
  - [dlinject](https://github.com/DavidBuchanan314/dlinject) - Like `LD_PRELOAD` but for already-running programs.
