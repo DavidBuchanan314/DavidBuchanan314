@@ -24,6 +24,8 @@ This is what happens when you let a Reverse Engineer write code. Here's an overv
  
  - [rc4](https://github.com/DavidBuchanan314/rc4) - A Python3 RC4 implementation that doesn't suck.
 
+ - [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
+
 ## Toys
 
  - [unsafe-python](https://github.com/DavidBuchanan314/unsafe-python) - Showcasing CPython's memory unsafety "features".
