@@ -2,7 +2,7 @@ This is what happens when you let a Reverse Engineer write code. Here's an overv
 
 ## Exploits
 
- - [RootMyTV](https://github.com/DavidBuchanan314/RootMyTV) - A remote(-ish) root exploit chain for WebOS TVs.
+ - [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - A user-friendly root exploit for LG webOS Smart TVs.
  
  - [NXLoader](https://github.com/DavidBuchanan314/NXLoader) - Exploit CVE-2018-6242 from (almost) any Android device.
 
