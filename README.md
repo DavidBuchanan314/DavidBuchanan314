@@ -1,4 +1,6 @@
-This is what happens when you let a Reverse Engineer write code. Here's an overview of my more useful repos:
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidBuchanan314&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Here's an overview of my more useful repos:
 
 ## Exploits
 
