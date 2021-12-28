@@ -4,6 +4,8 @@ Here's an overview of my more useful repos:
 
 ## Exploits
 
+ - [WAMpage](https://github.com/DavidBuchanan314/WAMpage) - webOS root LPE, including a V8 exploit.
+
  - [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - A user-friendly root exploit for LG webOS Smart TVs.
  
  - [NXLoader](https://github.com/DavidBuchanan314/NXLoader) - Exploit CVE-2018-6242 from (almost) any Android device.
@@ -13,6 +15,8 @@ Here's an overview of my more useful repos:
  - [PageSigner Signature Forgery](https://github.com/tlsnotary/pagesigner/issues/46) - Signature forgery via domain fronting.
 
  - [CVE-2017-13672](https://github.com/DavidBuchanan314/CVE-2017-13672) - A PoC for CVE-2017-13672 - QEMU DoS
+
+ - [ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software.
 
 ## Tools
 
