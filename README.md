@@ -4,9 +4,9 @@ Here's an overview of my more useful repos:
 
 ## Exploits
 
- - [WAMpage](https://github.com/DavidBuchanan314/WAMpage) - webOS root LPE, including a V8 exploit.
+ - [WAMpage](https://github.com/DavidBuchanan314/WAMpage) ([CVE-2022-23731](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23731)) - webOS root LPE, including a V8 exploit.
 
- - [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - A user-friendly root exploit for LG webOS Smart TVs.
+ - [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) ([CVE-2022-23727](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23727)) - A user-friendly root exploit for LG webOS Smart TVs.
  
  - [NXLoader](https://github.com/DavidBuchanan314/NXLoader) - Exploit CVE-2018-6242 from (almost) any Android device.
 
