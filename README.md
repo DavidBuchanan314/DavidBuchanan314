@@ -49,5 +49,3 @@ Here's an overview of my more useful repos:
  - [aes-playground](https://github.com/DavidBuchanan314/aes-playground) - Pedagogical AES implementation(s)
 
  - [wifi-sdcf](https://github.com/DavidBuchanan314/wifi-sdcf) - Reverse Engineering notes for a "WiFI SD Card" device.
-
-![lol](https://ipv4.games/claim?name=retr0id)
